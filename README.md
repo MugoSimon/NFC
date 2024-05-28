@@ -1,4 +1,3 @@
-```markdown
 # NFC Data Reader and Writer
 
 ## Summary
@@ -7,8 +6,8 @@ This Android application allows users to read and write data to NFC (Near Field 
 ## Required Hardware and Software
 - **Hardware**: Android device with NFC capabilities
 - **Software**:
-  - Android Studio (version 4.2 or higher)
-  - Android SDK (version 21 or higher)
+    - Android Studio (version 4.2 or higher)
+    - Android SDK (version 21 or higher)
 
 ## Android Dependencies
 - `android.nfc.NfcAdapter`
@@ -81,4 +80,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Lame Joke
 Why can't a bicycle stand up by itself? It's two-tired!
-
